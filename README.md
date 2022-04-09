@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargulia1&label=Profile%20views&color=0e75b6&style=flat" alt="sagargulia1" /> </p>
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sagargulia1?tab=repositories](https://github.com/sagargulia1?tab=repositories)
 
