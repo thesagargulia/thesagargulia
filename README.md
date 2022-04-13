@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN , Figma**
 
-- 📫 How to reach me **tech.sgulia729@gmail.com**
+- 📫 How to reach me **sgulia729@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
