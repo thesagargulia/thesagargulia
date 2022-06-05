@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/header_.png)
 
-<h1 align="center">Hi Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sagar Gulia </h1>
+ <h1 align="center">Hi Folks!! <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->, I am Sagar Gulia </h1> 
 <h3 align="center">Aspiring Full-Stack Web Developer from India</h3>
 
 <br />
