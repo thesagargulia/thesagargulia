@@ -10,10 +10,10 @@
 <a href="https://www.linkedin.com/in/sagar-gulia">
   <img align="left" alt="Sagar's LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://www.instagram.com/sagar_gulia1/">
+<a href="https://www.instagram.com/thesagargulia/">
   <img align="left" alt="Sagar's Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"/>
 </a>
-<a href="https://twitter.com/sagar_gulia1">
+<a href="https://twitter.com/thesagargulia">
   <img align="left" alt="Sagar Twitter" width="24px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a>
 
