@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **React,MERN Stack**
 
-- 👨‍💻 All of my projects are available at **[https://portfolio-sagargulia1.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[https://thesagargulia.vercel.app/)**
 
 - 💬 Ask me about **JavaScript, Data Structure & Algorithm**
 
