@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<a href="https://www.linkedin.com/in/sagar-gulia">
+<a href="https://www.linkedin.com/in/thesagargulia">
   <img align="left" alt="Sagar's LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://www.instagram.com/thesagargulia/">
@@ -22,7 +22,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently studying full-stack web development at **Masai school**.
+- 👨🏽‍💻 I’m currently working at **NetNxt**.
 
 - 🌱 I’m currently learning **React,MERN Stack**
 
@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **JavaScript, Data Structure & Algorithm**
 
-- 📫 How to reach me **sgulia729@gmail.com** 
+- 📫 How to reach me **thesagargulia@gmail.com** 
 
 <br /><br />
 
@@ -58,8 +58,8 @@
 <h2 align="center">Statistics </h2>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagargulia1&show_icons=true&theme=tokyonight" />     
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagargulia1&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thesagargulia&show_icons=true&theme=tokyonight" />     
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thesagargulia&show_icons=true&theme=tokyonight" />
  <p/>
  
  ### Show your support
@@ -74,4 +74,4 @@ Give a ⭐ if you like this website!
 </p align="center"> -->
 
 ----
-Credit: [sagargulia1](https://github.com/sagargulia1)
+Credit: [sagargulia1](https://github.com/thesagargulia)
